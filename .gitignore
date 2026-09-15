@@ -1,0 +1,13 @@
+# cPanel backups / system files, not part of the site
+assets.zip
+Qubec-3:7:2024.zip
+.htaccess.phpupgrader*
+error_log
+txt record
+cgi-bin/
+
+# Local tooling scratch (dev preview / brainstorming sessions)
+.claude/
+.superpowers/
+
+.DS_Store
